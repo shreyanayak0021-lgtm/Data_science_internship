@@ -1,0 +1,10 @@
+name:shreya,goal:engineer
+name:rutika,goal:software eng
+name:shreya,goal:engineer
+name:shreya,goal:software engineer
+name:shreya,goal:software engineer
+name:rutika,goal:MBBS
+name:vidya,goal:cyber security specialist
+name:shreya,goal:engineer
+name:shreya,goal:software engineer
+name:rutika,goal:MBBS
