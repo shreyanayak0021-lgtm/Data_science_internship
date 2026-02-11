@@ -1,6 +1,6 @@
-import numpy as np
+import numpy as nt
 
-scores = np.random.randint(50, 101, size=(5, 3))
+scores = nt.random.randint(50, 101, size=(5, 3))
 
 mean_scores = scores.mean(axis=0)
 
