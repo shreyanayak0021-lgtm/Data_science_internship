@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,order_date
+1001,Alice,Laptop,1,2026-02-01
+1002,Bob,Mobile,2,2026-02-02
+,Charlie,Tablet,1,2026-02-03
+1004,David,Headphones,3,2026-02-04
+1005,Eva,Camera,1,2026-02-05
+1002,Bob,Mobile,2,2026-02-02
+,Frank,Keyboard,1,2026-02-06
+1008,Grace,Monitor,2,2026-02-07
+1009,Helen,Printer,1,2026-02-08
+1005,Eva,Camera,1,2026-02-05
