@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Hello from main branch - updated
-=======
+
 Hello from feature branch
->>>>>>> feature
+feature
